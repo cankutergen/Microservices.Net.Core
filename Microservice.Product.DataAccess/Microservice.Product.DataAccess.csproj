@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Microservice.Product.Entities\Microservice.Product.Entities.csproj" />
+    <ProjectReference Include="..\Tesodev.Core\Tesodev.Core.csproj" />
+  </ItemGroup>
+
+</Project>
